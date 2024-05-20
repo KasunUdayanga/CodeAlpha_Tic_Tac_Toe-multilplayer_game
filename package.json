@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "hbs": "^4.2.0",
+    "http": "^0.0.1-security",
+    "install": "^0.13.0",
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.7.5"
+  }
+}
